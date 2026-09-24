@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Lucas+Samuel+Pajarito+Surek&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador+Full+Stack+Junior&descAlignY=58&descSize=18" alt="Lucas Pajarito - Desarrollador Full Stack Junior" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Lucas+Samuel+Pajarito+Surek&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador+Full+Stack+Junior&descAlignY=58&descSize=18" alt="Lucas Pajarito - Desp. Full Stack Junior" width="100%" />
 </div>
 
 <br />
@@ -16,12 +16,11 @@
 
 <br>
 
-<h1>👋 ¿Quién Soy?</h1>
+<h1 align="left">👋 ¿Quién Soy?</h1>
 
-<p align="justify">
-  <strong>💻 Full Stack Developer Junior | Campuslands Stack</strong>
-  <br />
-  Soy un joven Desarrollador Full Stack Junior obsesionado por la tecnología e innovación de aplicaciones web, APIs REST y paneles administrativos con enfoque en orden, documentación y resolución de problemas reales. Me gusta crear aplicaciones con lineamientos del mundo moderno favoreciendo así una grata experiencia al usuario.
+<p align="justify" style="line-height: 1.6;">
+  <strong>💻 Full Stack Developer Junior | Campuslands Stack</strong><br>
+  Soy un joven Desarrollador Full Stack Junior apasionado por la tecnología y la innovación en aplicaciones web, APIs REST y paneles administrativos, con un firme enfoque en el orden, la documentación y la resolución eficiente de problemas reales. Me especializo en construir soluciones digitales alineadas con los estándares del entorno moderno, garantizando siempre una experiencia de usuario fluida y profesional.
 </p>
 
 <div align="center">
@@ -30,34 +29,34 @@
   </a>
 </div>
 
-## 🎯 ¿Qué hago?
+<h2 align="left">🎯 ¿Qué hago?</h2>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🌐 Desarrollo web</h3>
-      <p>Construyo interfaces claras y funcionales conectadas a APIs y servicios backend.</p>
+    <td width="50%" align="center" style="padding: 15px;">
+      <h3>🌐 Desarrollo Web</h3>
+      <p align="justify">Construyo interfaces visuales limpias, intuitivas y altamente funcionales, conectadas de manera robusta con arquitecturas de APIs y servicios backend optimizados.</p>
     </td>
-    <td width="50%">
-      <h3>🚀 Proyectos y soluciones</h3>
-      <p>Transformo requerimientos en proyectos organizados, documentados y fáciles de revisar.</p>
+    <td width="50%" align="center" style="padding: 15px;">
+      <h3>🚀 Proyectos y Soluciones</h3>
+      <p align="justify">Transformo requerimientos complejos en aplicaciones estructuradas, meticulosamente documentadas y preparadas para escalar de forma ordenada.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🛠️ Trabajo técnico</h3>
-      <p>Uso ramas, commits descriptivos y estructura de carpetas para trabajar de forma colaborativa.</p>
+    <td width="50%" align="center" style="padding: 15px;">
+      <h3>🛠️ Trabajo Técnico</h3>
+      <p align="justify">Aplico buenas prácticas mediante control de versiones con Git, commits descriptivos y arquitecturas de carpetas modulares para potenciar el flujo colaborativo.</p>
     </td>
-    <td width="50%">
-      <h3>📚 Aprendizaje continuo</h3>
-      <p>Fortalezco mis bases en arquitectura backend, pruebas y despliegues con Docker.</p>
+    <td width="50%" align="center" style="padding: 15px;">
+      <h3>📚 Aprendizaje Continuo</h3>
+      <p align="justify">Fortalezco constantemente mis competencias en diseño de bases de datos, pruebas de integración y despliegues eficientes utilizando contenedores Docker.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ⚙️ Stack principal
+<h2 align="left">⚙️ Stack Principal</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,html,css,js,mysql,postgres,nodejs,git,docker,vscode&perline=11" alt="Tech stack" />
@@ -65,25 +64,25 @@
 
 ---
 
-## 📁 Proyectos destacados
+<h2 align="left">📁 Proyectos Destacados</h2>
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" align="center" style="padding: 12px;">
       <h3>🚗 Campus Parking</h3>
-      <p>Sistema para la gestión de un parqueo, control de entradas, salidas y cantidad a cobrar por hora.</p>
+      <p align="justify">Sistema web diseñado para la gestión integral de un parqueo, control riguroso de entradas, salidas y tarificación dinámica por hora.</p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript.</p>
       <a href="https://github.com/lucaspajarito01/Proyecto--JavaScript.-CampusParking-Lucas-Pajarito-.git">🔗 Ver proyecto</a>
     </td>
-    <td width="33%">
+    <td width="33%" align="center" style="padding: 12px;">
       <h3>🛍️ Campus-Shop</h3>
-      <p>Mockup de tienda virtual campus shop, control de inventarios y creación de cuentas.</p>
+      <p align="justify">Mockup interactivo de tienda virtual enfocado en el control de inventarios, gestión de stock y flujos limpios de creación de cuentas.</p>
       <p><strong>Stack:</strong> HTML, CSS.</p>
       <a href="https://github.com/lucaspajarito01/proyecto-html.git">🔗 Ver proyecto</a>
     </td>
-    <td width="33%">
+    <td width="33%" align="center" style="padding: 12px;">
       <h3>🤖 Gestión de Tutorías</h3>
-      <p>Programa realizado con el objetivo de la autogestión e inscripción de tutorías.</p>
+      <p align="justify">Plataforma automatizada orientada a simplificar la autogestión, agendamiento e inscripción de tutorías académicas.</p>
       <p><strong>Stack:</strong> N8N, Telegram.</p>
       <a href="https://github.com/lucaspajarito01/Proyecto_TutorBot_Garcia_Lester_-_Pajarito_Lucas.git">🔗 Ver proyecto</a>
     </td>
@@ -92,7 +91,7 @@
 
 ---
 
-## 📊 Actividad en GitHub
+<h2 align="left">📊 Actividad en GitHub</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspajarito01&theme=tokyonight" alt="Detalles del perfil" width="98%" />
@@ -109,7 +108,7 @@
 
 ---
 
-## 📫 Contacto
+<h2 align="left">📫 Contacto</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-samuel-pajarito-surek-9072933b9/">
