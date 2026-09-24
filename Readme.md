@@ -16,13 +16,12 @@
 
 <br>
 
-<h1 >¿Quien Soy?</h1>
+<h1>👋 ¿Quién Soy?</h1>
 
 <p align="justify">
-  <strong>Full Stack Developer Junior | Campuslands Stack</strong>
-
+  <strong>💻 Full Stack Developer Junior | Campuslands Stack</strong>
   <br />
-  Soy un joven Desarrollador Full Stack Junior obsesionado por la tecnologia e innovacion de aplicaciones web, APIs REST y paneles administrativos con enfoque en orden, documentacion y resolucion de problemas reales. Me gusta crear aplicaciones con liniamientos del mundo moderno favoreciendo asi una grata experiencia al usuario.
+  Soy un joven Desarrollador Full Stack Junior obsesionado por la tecnología e innovación de aplicaciones web, APIs REST y paneles administrativos con enfoque en orden, documentación y resolución de problemas reales. Me gusta crear aplicaciones con lineamientos del mundo moderno favoreciendo así una grata experiencia al usuario.
 </p>
 
 <div align="center">
@@ -31,28 +30,26 @@
   </a>
 </div>
 
-
-
-## ¿Que hago?
+## 🎯 ¿Qué hago?
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Desarrollo web</h3>
+      <h3>🌐 Desarrollo web</h3>
       <p>Construyo interfaces claras y funcionales conectadas a APIs y servicios backend.</p>
     </td>
     <td width="50%">
-      <h3>Proyectos y soluciones</h3>
-      <p>Transformo requerimientos en proyectos organizados, documentados y faciles de revisar.</p>
+      <h3>🚀 Proyectos y soluciones</h3>
+      <p>Transformo requerimientos en proyectos organizados, documentados y fáciles de revisar.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Trabajo tecnico</h3>
+      <h3>🛠️ Trabajo técnico</h3>
       <p>Uso ramas, commits descriptivos y estructura de carpetas para trabajar de forma colaborativa.</p>
     </td>
     <td width="50%">
-      <h3>Aprendizaje continuo</h3>
+      <h3>📚 Aprendizaje continuo</h3>
       <p>Fortalezco mis bases en arquitectura backend, pruebas y despliegues con Docker.</p>
     </td>
   </tr>
@@ -60,7 +57,7 @@
 
 ---
 
-## Stack principal
+## ⚙️ Stack principal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,html,css,js,mysql,postgres,nodejs,git,docker,vscode&perline=11" alt="Tech stack" />
@@ -68,34 +65,34 @@
 
 ---
 
-## Proyectos destacados
+## 📁 Proyectos destacados
 
 <table>
   <tr>
     <td width="33%">
-      <h3>Campus Parking</h3>
-      <p>Sistema para la gestion de un parqueo, control de entradas, salidas y cantidad a cobrar por hora.</p>
-      <p><strong>Stack:</strong>HTML, CSS, JavaScript.</p>
-      <a href="https://github.com/lucaspajarito01/Proyecto--JavaScript.-CampusParking-Lucas-Pajarito-.git">Ver proyecto</a>
+      <h3>🚗 Campus Parking</h3>
+      <p>Sistema para la gestión de un parqueo, control de entradas, salidas y cantidad a cobrar por hora.</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript.</p>
+      <a href="https://github.com/lucaspajarito01/Proyecto--JavaScript.-CampusParking-Lucas-Pajarito-.git">🔗 Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>Campus-Shop</h3>
-      <p>Mockoup de tienda virtual campus shop, control de inventarios y creación de cuentas.</p>
-      <p><strong>Stack:</strong>HTML, CSS.</p>
-      <a href="https://github.com/lucaspajarito01/proyecto-html.git">Ver proyecto</a>
+      <h3>🛍️ Campus-Shop</h3>
+      <p>Mockup de tienda virtual campus shop, control de inventarios y creación de cuentas.</p>
+      <p><strong>Stack:</strong> HTML, CSS.</p>
+      <a href="https://github.com/lucaspajarito01/proyecto-html.git">🔗 Ver proyecto</a>
     </td>
     <td width="33%">
-      <h3>Gestion de Tutorias</h3>
-      <p>Programa realizado con el objetivo de la autogestion e inscripcion de tutorias.</p>
+      <h3>🤖 Gestión de Tutorías</h3>
+      <p>Programa realizado con el objetivo de la autogestión e inscripción de tutorías.</p>
       <p><strong>Stack:</strong> N8N, Telegram.</p>
-      <a href="https://github.com/lucaspajarito01/Proyecto_TutorBot_Garcia_Lester_-_Pajarito_Lucas.git">Ver proyecto</a>
+      <a href="https://github.com/lucaspajarito01/Proyecto_TutorBot_Garcia_Lester_-_Pajarito_Lucas.git">🔗 Ver proyecto</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## Actividad en GitHub
+## 📊 Actividad en GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspajarito01&theme=tokyonight" alt="Detalles del perfil" width="98%" />
@@ -110,10 +107,9 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=lucaspajarito01&theme=radical&hide_border=true&background=1B1F3B&ring=00B4D8&fire=90E0EF&currStreakLabel=FFF3E4" alt="GitHub streak" />
 </div>
 
-
 ---
 
-## Contacto
+## 📫 Contacto
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-samuel-pajarito-surek-9072933b9/">
