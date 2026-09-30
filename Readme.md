@@ -69,10 +69,10 @@
 <table>
   <tr>
     <td width="33%" align="center" style="padding: 12px;">
-      <h3>🚗 Campus Parking</h3>
-      <p align="justify">Sistema web diseñado para la gestión integral de un parqueo, control riguroso de entradas, salidas y tarificación dinámica por hora.</p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript.</p>
-      <a href="https://github.com/lucaspajarito01/Proyecto--JavaScript.-CampusParking-Lucas-Pajarito-.git">🔗 Ver proyecto</a>
+      <h3> Inventario Tienda.</h3>
+      <p align="justify">Este proyecto esta basado en el desarrolo de una aplicacionde para gestionar el inventario de una tienda el cual permite administrar los productos de la tienda, registrar, consultar y modificar el inventario.</p>
+      <p><strong>Stack:</strong> Python</p>
+      <a href="https://github.com/lucaspajarito01/inventario_tienda.git">🔗 Ver proyecto</a>
     </td>
     <td width="33%" align="center" style="padding: 12px;">
       <h3>🛍️ Campus-Shop</h3>
