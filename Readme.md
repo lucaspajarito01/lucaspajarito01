@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Lucas+Samuel+Pajarito+Surek&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnico+En+Desarrollo+De+Software&descAlignY=58&descSize=18" alt="Lucas Pajarito - Desp. Full Stack Junior" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Lucas+Samuel+Pajarito+Surek&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnico+En+Desarrollo+De+Software&descAlignY=58&descSize=18" alt="Lucas Pajarito - Desp. Full Stack Junior" width="100%" /> 
 </div>
 
 <br />
