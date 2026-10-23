@@ -82,10 +82,10 @@
       <a href="https://github.com/lucaspajarito01/proyecto-html.git">🔗 Ver proyecto</a>
     </td>
     <td width="33%" align="center" style="padding: 12px;">
-      <h3>🤖 Gestión de Tutorías</h3>
-      <p align="justify">Plataforma automatizada orientada a simplificar la autogestión, agendamiento e inscripción de tutorías académicas.</p>
+      <h3>Gestor de Inventario.</h3>
+      <p align="justify">Sistema de consola elaborada con lenguaje de programación PYTHON, este es un sistema encargado de gestionar los productos de un pequeño negocio de ventas. </p>
       <p><strong>Stack:</strong> N8N, Telegram.</p>
-      <a href="https://github.com/lucaspajarito01/Proyecto_TutorBot_Garcia_Lester_-_Pajarito_Lucas.git">🔗 Ver proyecto</a>
+      <a href="https://github.com/lucaspajarito01/inventario_tienda.git">🔗 Ver proyecto</a>
     </td>
   </tr>
 </table>
