@@ -77,7 +77,7 @@
     </td>
     <td width="33%" align="center" style="padding: 12px;">
       <h3> library_cli_system</h3>
-      <p align="justify">CRUD de un sistema de gestion de prestamos y venta para una libreria que gestiona a sus clientes mas frecuentes al mismo tiempo gestiona el nventario de los libros que son ingresados a la sede.</p>
+      <p align="justify">CRUD de un sistema de gestion de prestamos y venta para una libreria que gestiona a sus clientes mas frecuentes, al mismo tiempo gestiona el inventario de los libros que son ingresados a la sede.</p>
       <p><strong>Stack:</strong>NodeJS, Express, MySQL</p>
       <a href="https://github.com/lucaspajarito01/proyecto-html.git">🔗 Ver proyecto</a>
     </td>
