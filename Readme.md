@@ -19,7 +19,7 @@
 <h2 align="left"><strong>SOBRE MÍ</strong></h2>
 
 <p align="justify" style="line-height: 1.6;">
-  <strong>💻 Full Stack Developer Junior | Campuslands Stack</strong><br>
+  <strong>💻 Tecnico Desarrollador de software | Campuslands Stack</strong><br>
   Soy un joven Desarrollador Full Stack Junior apasionado por la tecnología y la innovación en aplicaciones web, APIs REST y paneles administrativos, con un firme enfoque en el orden, la documentación y la resolución eficiente de problemas reales. Me especializo en construir soluciones digitales alineadas con los estándares del entorno moderno, garantizando siempre una experiencia de usuario fluida y profesional.
 </p>
 
@@ -70,15 +70,15 @@
 <table>
   <tr>
     <td width="33%" align="center" style="padding: 12px;">
-      <h3> Inventario Tienda.</h3>
-      <p align="justify">Este proyecto esta basado en el desarrolo de una aplicacionde para gestionar el inventario de una tienda el cual permite administrar los productos de la tienda, registrar, consultar y modificar el inventario.</p>
-      <p><strong>Stack:</strong> Python</p>
-      <a href="https://github.com/lucaspajarito01/inventario_tienda.git">🔗 Ver proyecto</a>
+      <h3>Gestor de notas</h3>
+      <p align="justify">Este proyecto es un sistema elaborado con el motor de ejecución NodeJS. Al mismo tiempo permite gestionar la integración de nuevos estudiante y nuevas materias las cuales pueden ser asignadas a cada uno de los estudiantes registrados dentro de la base de datos.</p>
+      <p><strong>Stack:</strong>NodeJS, MySQL, ExpressJS</p>
+      <a href="https://github.com/lucaspajarito01/gestor_de_notas_nodejs.git">🔗 Ver proyecto</a>
     </td>
     <td width="33%" align="center" style="padding: 12px;">
-      <h3>🛍️ Campus-Shop</h3>
-      <p align="justify">Mockup interactivo de tienda virtual enfocado en el control de inventarios, gestión de stock y flujos limpios de creación de cuentas.</p>
-      <p><strong>Stack:</strong> HTML, CSS.</p>
+      <h3> library_cli_system</h3>
+      <p align="justify">CRUD de un sistema de gestion de prestamos y venta para una libreria que gestiona a sus clientes mas frecuentes al mismo tiempo gestiona el nventario de los libros que son ingresados a la sede.</p>
+      <p><strong>Stack:</strong>NodeJS, Express, MySQL</p>
       <a href="https://github.com/lucaspajarito01/proyecto-html.git">🔗 Ver proyecto</a>
     </td>
     <td width="33%" align="center" style="padding: 12px;">
@@ -109,7 +109,7 @@
 
 ---
 
-<h2 align="left"><strong>Contacto</strong></h2>
+<h2 align="left"><strong>CONTACTO</strong></h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-samuel-pajarito-surek-9072933b9/">
