@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Lucas+Samuel+Pajarito+Surek&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Desarrollador+Full+Stack+Junior&descAlignY=58&descSize=18" alt="Lucas Pajarito - Desp. Full Stack Junior" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:334155&text=Lucas+Samuel+Pajarito+Surek&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Tecnico+En+Desarrollo+De+Software&descAlignY=58&descSize=18" alt="Lucas Pajarito - Desp. Full Stack Junior" width="100%" />
 </div>
 
 <br />
@@ -16,7 +16,7 @@
 
 <br>
 
-<h1 align="left">👋 ¿Quién Soy?</h1>
+<h2 align="left"><strong>SOBRE MÍ</strong></h2>
 
 <p align="justify" style="line-height: 1.6;">
   <strong>💻 Full Stack Developer Junior | Campuslands Stack</strong><br>
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<h2 align="left">🎯 ¿Qué hago?</h2>
+<h2 align="left"><strong>¿QUE HAGO?</strong></h2>
 
 <table>
   <tr>
@@ -56,7 +56,7 @@
 
 ---
 
-<h2 align="left">⚙️ Stack Principal</h2>
+<h2 align="left"><strong>STACKS PRINCIPALES</strong></h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=github,html,css,js,mysql,postgres,nodejs,git,docker,vscode&perline=11" alt="Tech stack" />
@@ -64,7 +64,8 @@
 
 ---
 
-<h2 align="left">📁 Proyectos Destacados</h2>
+<h2 align="left">
+<strong>PROYECTOS DESTACADOS</strong></h2>
 
 <table>
   <tr>
@@ -91,7 +92,7 @@
 
 ---
 
-<h2 align="left">📊 Actividad en GitHub</h2>
+<h2 align="left"><strong>Actividad en GitHub</strong></h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucaspajarito01&theme=tokyonight" alt="Detalles del perfil" width="98%" />
@@ -108,7 +109,7 @@
 
 ---
 
-<h2 align="left">📫 Contacto</h2>
+<h2 align="left"><strong>Contacto</strong></h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-samuel-pajarito-surek-9072933b9/">
