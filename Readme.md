@@ -84,7 +84,7 @@
     <td width="33%" align="center" style="padding: 12px;">
       <h3>Gestor de Inventario.</h3>
       <p align="justify">Sistema de consola elaborada con lenguaje de programación PYTHON, este es un sistema encargado de gestionar los productos de un pequeño negocio de ventas. </p>
-      <p><strong>Stack:</strong> N8N, Telegram.</p>
+      <p><strong>Stack:</strong> Python.</p>
       <a href="https://github.com/lucaspajarito01/inventario_tienda.git">🔗 Ver proyecto</a>
     </td>
   </tr>
